@@ -8,7 +8,7 @@ education:
   - course: BS Biological Sciences - Ecology, Evolution & Conservation
     institution: NC State University
     year: 2012
-email: ""
+email: "graymarymack@gmail.com"
 highlight_name: true
 interests:
 - Cooperative breeding
@@ -42,7 +42,7 @@ superuser: true
 title: Mary Mack Gray
 ---
 
-Hi! I'm an avian ecologist interested in behavior, cooperative breeders, and reintroduction biology. I currently work with fire-dependent species of southeastern pine forests, with a particular focus on Brown-headed Nuthatches.
+Avian ecologist interested in behavior, cooperative breeders, and reintroduction biology. I currently work with fire-dependent species of southeastern pine forests, with a particular focus on Brown-headed Nuthatches.
 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
