@@ -18,7 +18,7 @@ interests:
 organizations:
 - name: Tall Timbers Research Station
   url: https://www.talltimbers.org/
-role: Avian Research Ecologist
+role: Avian Research Biologist
 social:
 - icon: envelope
   icon_pack: fas
